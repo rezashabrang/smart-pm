@@ -1,13 +1,13 @@
 # 📊 **Smart Project Management** (smart-pm)
 
-Welcome to **Smart Project Management (smart-pm)**! This repository is designed to assist project managers and data scientists in applying **Data Science** techniques to the field of **Project Management (PM)**. It offers a structured approach to processing, analyzing, and engineering project data to make smarter, data-driven decisions.
+Welcome to **Smart Project Management (smart-pm)**! This repository is designed to assist students and data scientists in applying **Data Science** techniques to the field of **Project Management (PM)**. It offers a structured approach to processing, analyzing, and engineering project data to help you with course.
 
 ## 🚀 **Features**
 
 - **Data Preparation & Processing**: Techniques for cleaning, transforming, and preprocessing project data.
 - **Exploratory Data Analysis (EDA)**: Visualizations and analysis methods to understand project data patterns and relationships.
 - **Feature Engineering**: Tools and methods to create, transform, and select the most relevant features for machine learning models.
-- **Sample Data**: Realistic project management datasets to practice on, including project costs, durations, and team size.
+- **Sample Data**: Sample project management datasets to practice on, including project costs, durations.
 
 ---
 
@@ -124,8 +124,7 @@ To get started, we have included sample project management datasets:
 If you're new to project management or data science, here are some additional resources to help you get started:
 
 - [Project Management Institute (PMI)](https://www.pmi.org/) - The leading global organization for project management.
-- [Kaggle Datasets for Project Management](https://www.kaggle.com/) - Explore a range of datasets related to project management.
-- [Data Science for Project Managers](https://www.coursera.org/) - A course to help you apply data science techniques in the field of project management.
+- [Kaggle Datasets for Project Management](https://www.kaggle.com/) - Explore a range of datasets.
 
 ---
 
